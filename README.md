@@ -31,7 +31,7 @@ Automated bot for posting random XKCD comics to a Discord channel.
    - Copy the bot token.
 
 4. Configure the bot:
-   - Edit `TOKEN` in `bot.py` and replace it with your actual bot token.
+   - Edit `TOKEN` in `main.py` and replace it with your actual bot token.
    - Set `CHANNEL_NAME` to the name of the channel where comics should be posted.
 
 5. Run the bot:
